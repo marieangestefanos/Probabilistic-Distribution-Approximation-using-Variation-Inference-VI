@@ -1,1 +1,1 @@
-# Probabilistic-Distribution-Approximation-using-Variation-Inference-VI-
+# Probabilistic-Distribution-Approximation-using-Variation-Inference-VI
